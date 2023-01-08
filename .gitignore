@@ -1,0 +1,8 @@
+
+# Ignore data in data folders
+data/*
+!data/.gitkeep
+
+# Ignore images in image folders
+images/*
+!images/.gitkeep
